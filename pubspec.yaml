@@ -17,7 +17,7 @@ dependencies:
   google_fonts: ^1.1.0
   loading_indicator: ^1.1.0
   mdi: ^2.0.0
-  flutter_svg:
+  flutter_svg: ^1.1.6
   intl: ^0.16.1
   carousel_slider: ^2.1.0
   flutter_typeahead: ^1.8.1
